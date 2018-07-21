@@ -1,3 +1,4 @@
+
 package com.controller;
 
 import java.util.LinkedHashMap;
@@ -13,6 +14,13 @@ public class DropdownController {
 
 	
 	   private ModelAndView mav;
+	   
+	   private void syso() {
+		System.out.println("niteennnxscbbsucdyhbcjc hi   anya");
+	}
+	   
+	   
+	   
 	/*
 	@RequestMapping(value="/DropdownList")
 	public String m1()
